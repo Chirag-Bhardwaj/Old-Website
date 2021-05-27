@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Personal Projects:
 
 [Blockchain](/sample_page)
 <img src="images/blockchain-network.jpg?raw=true"/>
