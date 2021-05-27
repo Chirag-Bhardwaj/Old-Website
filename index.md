@@ -5,7 +5,7 @@
 ### Personal Projects:
 
 [Blockchain](/sample_page)
-<img src="images/blockchain-network.jpg?raw=true"/>
+[<img src="images/blockchain-network.jpg?raw=true"/>](/sample_page)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
