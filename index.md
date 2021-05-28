@@ -4,7 +4,7 @@
 
 ### Personal Projects:
 
-[<center>Blockchain</center>](/sample_page)
+[<center><b>Blockchain</b></center>](/sample_page)
 [<img src="images/blockchain-network.jpg?raw=true"/>](/sample_page)
 
 ---
