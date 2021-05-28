@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Github Project Repositories:
 
 - [Blockchain](http://example.com/)
 - [Project 2 Title](http://example.com/)
