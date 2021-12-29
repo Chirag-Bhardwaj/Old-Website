@@ -4,8 +4,8 @@
 
 ### Personal Projects:
 
-[<center><b>Blockchain</b></center>](/sample_page)
-[<img src="images/blockchain-network.jpg?raw=true"/>](/sample_page)
+[<center><b>Memory-Match Game</b></center>](/sample_page)
+[<img src="images/Memory-Match.jpg?raw=true"/>](/sample_page)
 
 ---
 
@@ -13,7 +13,7 @@
 
 ### Github Project Repositories:
 
-- [Blockchain](http://example.com/)
+- [Memory-Match Game](https://github.com/Chirag-Bhardwaj/Memory-Match-Game)
 
 
 ---
