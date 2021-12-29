@@ -4,7 +4,7 @@
 
 ### Personal Projects:
 
-[<center><b>Memory-Match Game</b></center>](/sample_page)
+[<center><b>Memory-Match Game</b></center>](/Memory-Match)
 [<img src="images/Memory-Match.jpg?raw=true"/>](/sample_page)
 
 ---
