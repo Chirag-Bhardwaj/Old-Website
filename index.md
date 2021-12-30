@@ -1,9 +1,9 @@
-## About Me:
+### About Me:
 
 Highly motivated and passionate Computer Science student who likes to work on personal projects and learn new technologies.
 ---
 
-## Personal Projects:
+### Personal Projects:
 
 [<center><b>Memory-Match Game</b></center>](/Memory-Match.md)
 [<img src="images/Memory-Match.jpg?raw=true"/>](/Memory-Match.md)
