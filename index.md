@@ -8,7 +8,7 @@
 
 ---
 
-[<center><b>Blockchain</b></center>](/blockchain.md)
+[<center><b>Chirag-Coin (Blockchain)</b></center>](/blockchain.md)
 [<img src="images/blockchain.jpg?raw=true"/>](/blockchain.md)
 
 ---
