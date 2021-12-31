@@ -1,6 +1,4 @@
-### About Me:
-
-Highly motivated and passionate Computer Science student who likes to work on personal projects and learn new technologies.
+### Portfolio
 ---
 
 ### Personal Projects:
