@@ -18,6 +18,11 @@
 
 ---
 
+[<center><b>Rock Paper Scissors Game</b></center>](/rps.md)
+[<img src="images/RPS.png?raw=true"/>](/rps.md)
+
+---
+
 ### Github Project Repositories:
 
 - [Memory-Match Game](https://github.com/Chirag-Bhardwaj/Memory-Match-Game)
