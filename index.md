@@ -18,7 +18,7 @@
 
 ---
 
-[<center><b>Rock-Paper-Scissors Game</b></center>](/rps.md)
+[<center><b>Rock-Paper-Scissors Game (Old project)</b></center>](/rps.md)
 [<img src="images/RPS.png?raw=true"/>](/rps.md)
 
 ---
