@@ -23,9 +23,9 @@
 
 ---
 
-### Github Project Repositories:
+### Story Section:
 
-- [Memory-Match Game](https://github.com/Chirag-Bhardwaj/Memory-Match-Game)
+- [Teaching CS in remote areas](/volunteering.md)
 
 
 ---
