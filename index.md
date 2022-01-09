@@ -26,7 +26,7 @@
 ### Story Section:
 
 - [Teaching CS in remote areas](/volunteering.md)
-
+[<img src="images/IMG_5937.JPG?raw=true"/>](/volunteering.md)
 
 ---
 
