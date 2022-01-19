@@ -3,7 +3,7 @@
 
 ### Personal Projects:
 
-[<center><b>openFDA retriever (U.S. FDA)</b></center>](/openFDA.md)
+[<center><b>FDA Automatic MDR</b></center>](/openFDA.md)
 [<img src="images/USFDA.png?raw=true"/>](/openFDA.md)
 
 ---
