@@ -31,7 +31,7 @@
 ---
 
 - [Undergraduate Teaching Assistant (TA)](/UndergradTA.md)
-[<img src="images/IMG_6666.JPG?raw=true"/>](/UndergradTA.md)
+[<img src="images/IMG_6666.jpg?raw=true"/>](/UndergradTA.md)
 
 ---
 
