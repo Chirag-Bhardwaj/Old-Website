@@ -3,6 +3,12 @@
 
 ### Personal Projects:
 
+
+[<center><b>People in the Lab (Machine Learning)</b></center>](/LabCounter.md)
+[<img src="images/LabCounter.png?raw=true"/>](/LabCounter.md)
+
+---
+
 [<center><b>FDA Automatic MDR</b></center>](/openFDA.md)
 [<img src="images/USFDA.png?raw=true"/>](/openFDA.md)
 
