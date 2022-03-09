@@ -4,8 +4,8 @@
 ### Personal Projects:
 
 
-[<center><b>People in the Lab (Machine Learning)</b></center>](/LabCounter.md)
-[<img src="images/LabCounter.png?raw=true"/>](/LabCounter.md)
+[<center><b>People Counter in the Lab (Machine Learning)</b></center>](/LabCounter.md)
+[<img src="images/LabCounter1.png?raw=true"/>](/LabCounter.md)
 
 ---
 
