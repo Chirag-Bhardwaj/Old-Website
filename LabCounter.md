@@ -25,6 +25,6 @@ Accurately identifies a human using Machine Learning.
 
 Helps in keeping the lab safe and secure.
 
-
+---
 
 Github Repo available soon!
