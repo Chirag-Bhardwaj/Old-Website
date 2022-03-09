@@ -17,7 +17,7 @@
 
 This count is shown on the lab's discord page.
 
-### 2. Increments whenever someone goes inside the lab and crosses the prediction border. Decrements when someone leaves the lab.
+### 2. Increments and decremenents the count based on someone entering or leaving the lab.
 
 Accurately identifies a human using Machine Learning.
 
